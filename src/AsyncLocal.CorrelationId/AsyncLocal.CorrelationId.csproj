@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <Description>Static AsyncLocal CorrelationId</Description>
+    <RepositoryUrl>https://github.com/yesmarket/Context.CorrelationId</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Authors>Ryan Bartsch</Authors>
+    <Product />
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+</Project>
